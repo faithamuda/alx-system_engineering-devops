@@ -1,2 +1,2 @@
 #!/bin/bash
-la -map
+ls -mpa
