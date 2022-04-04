@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod my_dir -m=751
